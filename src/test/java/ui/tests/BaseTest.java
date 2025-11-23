@@ -6,5 +6,6 @@ public class BaseTest {
     @Test
     public void testMethod() {
         System.out.println("Проверка связипше ");
+        System.out.println("Я пишу ебаный код, типо я иванов");
     }
 }
